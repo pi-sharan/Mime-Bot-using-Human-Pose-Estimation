@@ -1,4 +1,4 @@
-# Humanoid-controller-using-pose-estimation
+# Mime-Bot-using-Human-Pose-Estimation
 * Details of the project are given in the [Report](https://github.com/pi-sharan/Mime-Bot-using-Human-Pose-Estimation/blob/main/Report%20Human%20Pose%20Est.pdf)
 
 ##Work and Simulation :
